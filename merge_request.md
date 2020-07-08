@@ -3,11 +3,13 @@
 1. 打开链接: https://github.com/golanglibs/source_gin
 2. Fork此项目
 
-![Fork]("./images/merge_request1.png" ''图片title'')
+![](./images/merge_request1.png)
 
-![Fork]("./images/merge_request2.png" ''图片title'')
+Forking...
+![](./images/merge_request2.png)
 
-![Fork]("./images/merge_request3.png" ''图片title'')
+Forking...选择你的域:
+![](./images/merge_request3.png)
 
 3. Clone代码并提交
 ```
