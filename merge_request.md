@@ -9,6 +9,7 @@
 ![](./images/merge_request2.png)
 
 Forking...
+
 ![](./images/merge_request3.png)
 
 ### 3. Clone代码并提交
