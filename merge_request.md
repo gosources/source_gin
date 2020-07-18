@@ -1,5 +1,13 @@
 # 怎么进行开源项目
 
+如何贡献::
+
+    Fork 仓库或在本地创建分支
+    编辑完成后提交到 GitHub
+    发起 Pull Request，申请合并
+    专家 Review 提交内容后确认是否接受 Pull Request
+
+
 ### 1. 打开链接: https://github.com/golanglibs/source_gin
 ### 2. Fork此项目
 
